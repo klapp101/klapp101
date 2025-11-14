@@ -1,4 +1,5 @@
 # 💫 About Me
+- Senior AI Engineer @ IBM
 - 🔭 I’m currently working on building with LLMs  
 - 🌱 Learning about Token Optimization, Model-Agnostic architectures, Fine-tuning, and more!
 
