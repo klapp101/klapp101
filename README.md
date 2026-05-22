@@ -1,5 +1,5 @@
 # 💫 About Me
-- Senior AI Engineer @ IBM
+- Forward Deployed AI Engineer @ Tribe AI
 - 🔭 I’m currently working on building with LLMs  
 - 🌱 Learning about Token Optimization, Model-Agnostic architectures, Fine-tuning, and more!
 
